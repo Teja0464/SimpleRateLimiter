@@ -1,0 +1,24 @@
+{
+  "name": "simpleratelimiter",
+  "version": "1.0.0",
+  "description": "Assignment from Pillow",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teja0464/SimpleRateLimiter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teja0464/SimpleRateLimiter/issues"
+  },
+  "homepage": "https://github.com/Teja0464/SimpleRateLimiter#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
